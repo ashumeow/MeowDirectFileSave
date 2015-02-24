@@ -1,0 +1,3 @@
+[1] https://github.com/dsamarin
+[2] http://www.williammalone.com/articles/create-html5-canvas-javascript-drawing-app/
+[3] https://github.com/eligrey/

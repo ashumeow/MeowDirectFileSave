@@ -12,5 +12,9 @@
     "url": "http://windowsgeekpro.in"
   },
   "files": [
+    "src/js/main.js",
+    "src/js/filesave.js",
+    "src/js/blob.js",
+    "src/js/canvas-to-blob.js"
   ]
 }

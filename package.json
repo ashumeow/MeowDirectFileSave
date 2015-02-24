@@ -1,7 +1,7 @@
 {
   "name": "MeowDirectFileSave",
   "version": "v1.0.0",
-  "description": "MeowDirectFileSave is a javascript library that directly saves instant-drawings, text and xhtml files and downloads locally at instant through WebRTC.",
+  "description": "MeowDirectFileSave is a javascript library that directly saves instant-drawings, text and xhtml files and downloads locally at instant.",
   "license": "MIT License",
   "repository": "ashumeow/MeowDirectFileSave",
   "author": {
